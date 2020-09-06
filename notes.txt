@@ -1,0 +1,5 @@
+For creating a project:
+composer create-project laravel/laravel "Project Name"
+
+Laravel Packages:
+composer require laravel/ui         // UI package
